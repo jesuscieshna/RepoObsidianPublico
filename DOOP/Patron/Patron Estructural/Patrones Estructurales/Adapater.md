@@ -1,0 +1,4 @@
+
+## [[Patron Estructural]] Adapter
+
+## 

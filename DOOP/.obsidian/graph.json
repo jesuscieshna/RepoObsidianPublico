@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Antipatrón  ",
+      "color": {
+        "a": 1,
+        "rgb": 9258052
+      }
+    },
+    {
+      "query": "path:Patron  ",
+      "color": {
+        "a": 1,
+        "rgb": 12885974
+      }
+    },
+    {
+      "query": "path:Principio  ",
+      "color": {
+        "a": 1,
+        "rgb": 6865006
+      }
+    },
+    {
+      "query": "path: Dependencia  ",
+      "color": {
+        "a": 1,
+        "rgb": 15660426
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 0.682420749279539,
+  "lineSizeMultiplier": 1.26185567010309,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4881294204194461,
+  "close": true
+}
