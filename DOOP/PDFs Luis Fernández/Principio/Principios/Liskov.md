@@ -95,8 +95,7 @@ Son condiciones que una clase siempre tiene que cumplir al interactuar con otra.
 ---TODO---
 Evitar por completo los instance of [[LuisFernández_5_Diseño.pdf#pag=71 | en apuntes]].
 ## Herencia rechazada
-[[Herencia Rechazada]]
-[[Delegación de comportamiento]]
+[[Herencia Rechazada]] la solucion es ----> [[Delegación de comportamiento]]
 
 
 

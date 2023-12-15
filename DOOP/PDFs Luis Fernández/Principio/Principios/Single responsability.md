@@ -1,6 +1,6 @@
 
 
-## [[Principio]] Single responsability
+## [[Principio]] Single responsability, la S de los SOLID
 
 
 ## Definición

@@ -4,7 +4,6 @@
 *"Keep it simple, stupid"*
 
 ## Definición
-
 [[LuisFernández_5_Diseño.pdf#page=27 | Definición de Luis Fernámdez (28 y 29)]]
 
 En el desarrollo anteponemos la legibilidad del código a su complejidad, por mucho que se crea que esa solución es muy eficiente u otras ventajas. 
@@ -18,7 +17,11 @@ No me veo con el nivel de dar una respuesta amplia y real a esta pregunta.
 
 A las conclusiones que he llegado hasta el momento es que mantenerlo simple en parte es (a partir de un buen análisis y diseño) la abstracción del problema en bloques de alto nivel. Es decir, sirvete de las clases que tienes o incluso ,si es necesario, crea otras para abstraer el problema en pequeñas partes que en definitiva nos aportará una mayor legibilidad.
 
-También he nombrado un buen análisis y diseño ya que es posible que la implementación la funcionalidad sea más sencilla desde otra clase por su propia naturaleza, y por tanto tenga más sentido que sea su responsabilidad.
+También he nombrado un buen análisis y diseño ya que es posible que la implementación sea más sencilla desde otra clase por su propia naturaleza, y por tanto tenga más sentido que sea su responsabilidad.
+
+Además de obviamente complicar un código por status y sentirte mejor que otros.
+
+Trabajando en un grupo de programadores uno de tus principales objetivos es que se entienda rápido tu código.
 ##### Violaciones de KISS
 [[LuisFernández_5_Diseño.pdf#page=29 |Sacado de los apuntes de Luis Fernández]]
 

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
+                "file": "Patron/Patron Creacional/Patrones Creacionales/Singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principio/Principios/Alta Cohesión.md",
+                "file": "PDFs Luis Fernández/Principio/Principios/Alta Cohesión.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principio/Principios/Alta Cohesión.md",
+                "file": "PDFs Luis Fernández/Principio/Principios/Alta Cohesión.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
+                "file": "Patron/Patron Creacional/Patrones Creacionales/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
+                "file": "Patron/Patron Creacional/Patrones Creacionales/Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patron/Patron Creacional/Patrones Creacionales/Prototype.md"
+                "file": "Patron/Patron Creacional/Patrones Creacionales/Singleton.md"
               }
             }
           },
@@ -227,56 +227,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "75792629fe0147e8",
+  "active": "39b855c916ffba08",
   "lastOpenFiles": [
+    "Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
     "Patron/Patron Creacional/Patrones Creacionales/Factory.md",
     "Patron/Patron Creacional/Patrones Creacionales/Builder.md",
     "Patron/Patron Creacional/Patrones Creacionales/Abstract Fatory.md",
-    "Patron/Patron Creacional/Patron Creacional.md",
+    "SinAsignarACarpetas/Doble despacho.md",
+    "SinAsignarACarpetas/GRASP.md",
+    "SinAsignarACarpetas/Inyección de dependencias.md",
+    "SinAsignarACarpetas/Métrica.md",
+    "SinAsignarACarpetas/Acoplamiento.md",
+    "SinAsignarACarpetas",
+    "SinAsignarACarpetas/Complejidad ciclomática.md",
+    "SinAsignarACarpetas/Delegación de comportamiento.md",
+    "Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf",
+    "PDFs Luis Fernández/LuisFernández_4_Analisis.pdf",
+    "PDFs Luis Fernández/LuisFernández_5_Diseño.pdf",
+    "Dependencia/Dependencias/Realización.md",
+    "Dependencia/Dependencias/Uso.md",
+    "Dependencia/Dependencias/Composición.md",
+    "Dependencia/Dependencias/Asociación.md",
+    "Dependencia/Dependencias/Agregación.md",
+    "Dependencia/Dependencia.md",
+    "Antipatrón/Antipatrones/Obsesión por tipos primitivos.md",
+    "Antipatrón/Antipatrones/Intimidad inapropiada.md",
+    "Antipatrón/Antipatrones/Envidia por características.md",
+    "Antipatrón/Antipatrones/Antipatrón descomposición funcional.md",
+    "Antipatrón/Antipatrones/Cirugía a escopetazos.md",
+    "Antipatrón/Antipatrones/Antipatrón código muerto.md",
+    "PDFs Luis Fernández/Principio/Principios/Bajo Acoplamiento.md",
+    "PDFs Luis Fernández/Principio/Principios/Controlador.md",
+    "PDFs Luis Fernández/Principio/Principios/DRY.md",
+    "Resources/FlyWeightDiagram.png",
     "Resources/FlyWeightConcreteDiagram.png",
     "Resources/FactoryDiagram.png",
-    "Principio/Principios/Alta Cohesión.md",
-    "Inyección de dependencias.md",
-    "Principio/Principios/Liskov.md",
-    "Dependencia/Dependencias/Herencia.md",
-    "Antipatrón/Antipatrones/Obsesión por tipos primitivos.md",
-    "Principio/Principios/Indirección.md",
-    "Patron/Patron Estructural/Patrones Estructurales/FlyWeight.md",
-    "Patron/Patron Estructural/Patrones Estructurales/Facade.md",
     "Pdf Patrones de diseño/RefactoringGurú.pdf",
-    "Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf",
-    "Resources/FlyWeightDiagram.png",
-    "Patron/Patron.md",
-    "Patron/Patron Creacional/Patrones Creacionales/Singleton.md",
-    "PDFs Luis Fernández/LuisFernández_5_Diseño.pdf",
-    "Principio/Principios/Single responsability.md",
-    "Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
     "Resources",
-    "Patron/Patron Estructural/Patrones Estructurales/Decorator.md",
-    "Complejidad ciclomática.md",
-    "Principio/Principios/Bajo Acoplamiento.md",
-    "Antipatrón/Antipatrones/Antipatrón código muerto.md",
-    "Acoplamiento.md",
-    "Patron/Patron Estructural/Patrones Estructurales/Adapater.md",
-    "Principio/Principios/DRY.md",
-    "Principio/Principios/Controlador.md",
-    "Principio/Principios/Experto en información.md",
-    "Principio/Principios/Invención pura.md",
     "Patron/Patron Creacional/Patrones Creacionales",
     "Patron/Patron Creacional",
     "Patron/Patron Estructural/Patrones Estructurales",
     "Patron/Patron Estructural",
-    "Patron",
-    "PDFs Luis Fernández/LuisFernández_4_Analisis.pdf",
     "Untitled.canvas"
   ]
 }

@@ -5,6 +5,6 @@
 
 ## Definición 
 
-No hardcodees, luego cambiar un valor que podría haber sido una constante es un dolor. 
+No hardcodees, luego cambiar un valor que podría haber sido una variable es un dolor. 
 
 
