@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "cssTheme": "Cybertron"
+  "accentColor": "#71508b",
+  "cssTheme": "Typomagical",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "baseFontSize": 19
 }

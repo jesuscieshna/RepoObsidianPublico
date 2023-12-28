@@ -1,0 +1,14 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cm-s-obsidian span.cm-formatting-strong,
+
+.cm-s-obsidian span.cm-strong {
+
+color: rgb(120, 194, 234);
+}
+
+.theme-dark { --bold-weight: 700; }

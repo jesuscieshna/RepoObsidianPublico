@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "73b79c304d64333e",
+        "id": "5b04725d0ce0c2a3",
         "type": "tabs",
+        "dimension": 55.01330967169476,
         "children": [
           {
-            "id": "ca36638c444112ee",
+            "id": "cef52e5613297088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes Mates AI/AI/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b54204f54c3d1c3",
+        "type": "tabs",
+        "dimension": 44.98669032830524,
+        "children": [
+          {
+            "id": "0d54998d4c8e3875",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Libros/Deep Learning with Python.pdf"
+                "file": "Libros/deep-learning-adaptive-computation-and-machine-learning-series BY Ian Goodfellow.pdf"
               }
             }
           }
@@ -67,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 281.5
   },
   "right": {
     "id": "ba1d41795f4a5aab",
@@ -83,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/Deep Learning with Python.pdf",
+                "file": "Apuntes Mates AI/AI/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/Deep Learning with Python.pdf",
+                "file": "Apuntes Mates AI/AI/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +133,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -123,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/Deep Learning with Python.pdf"
+                "file": "Apuntes Mates AI/AI/Chapter 4 Numerical Computation/Descenso del Gradiente.md"
               }
             }
           },
@@ -133,16 +153,18 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +177,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca36638c444112ee",
+  "active": "cef52e5613297088",
   "lastOpenFiles": [
-    "Libros/lbdl.pdf",
+    "Apuntes Mates AI/AI/Chapter 0 Introducción/Introducción.md",
+    "Apuntes Mates AI/AI/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+    "Apuntes Mates AI/Util/Función signo.md",
+    "Apuntes Mates AI/Bases de calculo/Punto Crítico.md",
+    "Apuntes Mates AI/Bases álgebra/Endomorfismos.md",
+    "Apuntes Mates AI/Bases álgebra/Hessiano.md",
+    "Apuntes Mates AI/Bases álgebra/Jacobiano.md",
     "Libros/deep-learning-adaptive-computation-and-machine-learning-series BY Ian Goodfellow.pdf",
     "Libros/Deep Learning with Python.pdf",
-    "Libros"
+    "Res/FuncionSignoImage.png",
+    "Res/PuntoCritico.png",
+    "Res",
+    "Apuntes Mates AI/Util",
+    "Apuntes Mates AI/Bases álgebra",
+    "Apuntes Mates AI/AI",
+    "Apuntes Mates AI/Bases de calculo",
+    "Apuntes Bases/Untitled.md",
+    "Apuntes Mates AI/AI/Chapter 0 Introducción",
+    "Apuntes Bases/Chapter 4 Numerical Computation/Untitled",
+    "Apuntes Mates AI/AI/Chapter 4 Numerical Computation"
   ]
 }
