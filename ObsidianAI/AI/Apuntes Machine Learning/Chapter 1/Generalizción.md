@@ -1,0 +1,1 @@
+Capacidad de un algoritmo para predecir un valor a partir de datos que no ha visto antes
