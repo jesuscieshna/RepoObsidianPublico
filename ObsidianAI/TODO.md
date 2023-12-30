@@ -1,0 +1,6 @@
+- [x] Terminar la definición de Jacobiano
+- [ ] Problemas del descenso del gradiente: pag 89
+- [ ] Iniciar método de newton
+- [ ] Iniciar constrained optimization
+- [ ] Terminar la definición de Hessiano
+- [ ] Retomar proyecto de comentarios en Keras
