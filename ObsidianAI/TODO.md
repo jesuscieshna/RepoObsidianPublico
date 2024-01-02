@@ -1,6 +1,8 @@
 - [x] Terminar la definición de Jacobiano
-- [ ] Problemas del descenso del gradiente: pag 89
-- [ ] Iniciar método de newton
+- [x] Problemas del descenso del gradiente: pag 89
+- [ ] Repasar el punto 4 de deep learning
+- [ ] Iniciar [[Método De Newton]]
 - [ ] Iniciar constrained optimization
-- [ ] Terminar la definición de Hessiano
+- [ ] Terminar la definición de [[Hessiano]]
 - [ ] Retomar proyecto de comentarios en Keras
+- [ ] Resumir bien el [[Aprendizaje Supervisado]]

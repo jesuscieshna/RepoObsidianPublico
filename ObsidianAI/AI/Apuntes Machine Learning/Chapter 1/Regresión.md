@@ -1,0 +1,1 @@
+Al contrario que la [[Clasificación]], aquí el posible output es una variable real $y_{i} \in R$.
