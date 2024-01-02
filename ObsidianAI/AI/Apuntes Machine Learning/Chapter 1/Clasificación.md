@@ -5,6 +5,9 @@ El resultado se representa como una probabilidad para cada valor del set de sali
 
 Si estamos trabajando con varios modelos $M$ se denota la probabilidad como $p(y|x,D,M)$.
 
+  Como resultado tendremos el valor con mayor probabilidad: $ŷ=argmax^C_{c=1}p(y=c|x,D)$ o moda
+
+
 
 
 

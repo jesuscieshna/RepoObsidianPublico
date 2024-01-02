@@ -6,7 +6,7 @@
       {
         "id": "1b1dc8fc1623fff5",
         "type": "tabs",
-        "dimension": 40.97222222222222,
+        "dimension": 40.972222222222214,
         "children": [
           {
             "id": "07bcccc06ae9b84c",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
-                "mode": "preview",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "3a881ce2540dc69b",
         "type": "tabs",
-        "dimension": 59.02777777777778,
+        "dimension": 59.027777777777786,
         "children": [
           {
             "id": "53e96891bab79e2f",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md"
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md"
               }
             }
           },
@@ -180,24 +180,24 @@
   },
   "active": "07bcccc06ae9b84c",
   "lastOpenFiles": [
-    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Regresión.md",
     "AI/Apuntes Machine Learning/Chapter 1/Generalizción.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
-    "Libros/Latex CheatSheet.pdf",
+    "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
     "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
+    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
+    "TODO.md",
+    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Método De Newton.md",
+    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Optimización con restricciones.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Regresión.md",
+    "Libros/Latex CheatSheet.pdf",
     "AI/Apuntes Machine Learning/Chapter 0 Introducción/Introducción.md",
     "AI/Apuntes Machine Learning/Chapter 1/Introducción.md",
-    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
-    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Método De Newton.md",
     "Mates/Bases cálculo/Derivadas/Jacobiano.md",
     "AI/Apuntes Machine Learning/Chapter 1",
     "AI/Apuntes Machine Learning/Untitled.canvas",
-    "TODO.md",
     "AI/Apuntes Deep Learning/Chapter 0 Introducción/Introducción.md",
     "AI/Apuntes Deep Learning/Chapter 5 Machine learning basics/Introducción.md",
-    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Optimización con restricciones.md",
     "De interes/Fuentes.md",
     "Mates/Bases álgebra/Aplicación Lineal.md",
     "Mates/Bases estadística",
