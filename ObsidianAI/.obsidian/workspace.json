@@ -6,7 +6,7 @@
       {
         "id": "1b1dc8fc1623fff5",
         "type": "tabs",
-        "dimension": 39.02777777777778,
+        "dimension": 31.736111111111107,
         "children": [
           {
             "id": "07bcccc06ae9b84c",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
-                "mode": "source",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
       {
         "id": "3a881ce2540dc69b",
         "type": "tabs",
-        "dimension": 60.97222222222223,
+        "dimension": 68.26388888888889,
         "children": [
           {
             "id": "53e96891bab79e2f",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md"
+                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md"
               }
             }
           },
@@ -174,26 +174,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "07bcccc06ae9b84c",
+  "active": "4fe0081db983b658",
   "lastOpenFiles": [
-    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
-    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
     "TODO.md",
-    "Mates/Bases cálculo/Derivadas/Hessiano.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Regresión.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
     "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
+    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Curse of dimensionality.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Generalizción.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Clasificación.md",
+    "AI/Apuntes Machine Learning/Chapter 1/Regresión.md",
+    "Libros/Latex CheatSheet.pdf",
+    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Método De Newton.md",
+    "Res/FuncionSignoImage.png",
+    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Descenso del Gradiente.md",
+    "Mates/Bases cálculo/Derivadas/Hessiano.md",
     "Libros/deep-learning-adaptive-computation-and-machine-learning-series BY Ian Goodfellow.pdf",
     "De interes/Fuentes.md",
-    "AI/Apuntes Machine Learning/Chapter 1/Generalizción.md",
-    "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Método De Newton.md",
     "AI/Apuntes Deep Learning/Chapter 4 Numerical Computation/Optimización con restricciones.md",
-    "Libros/Latex CheatSheet.pdf",
     "AI/Apuntes Machine Learning/Chapter 0 Introducción/Introducción.md",
     "AI/Apuntes Machine Learning/Chapter 1/Introducción.md",
     "Mates/Bases cálculo/Derivadas/Jacobiano.md",
@@ -214,7 +215,6 @@
     "Mates/Bases cálculo/Punto Crítico.md",
     "Homeomorfismo.md",
     "Video.md",
-    "Res/FuncionSignoImage.png",
     "Res/PuntoCritico.png",
     "Apuntes Bases/Untitled.md"
   ]

@@ -5,4 +5,5 @@
 - [ ] Iniciar constrained optimization
 - [ ] Terminar la definición de [[Hessiano]]
 - [ ] Retomar proyecto de comentarios en Keras
-- [ ] Resumir bien el [[Aprendizaje Supervisado]]
+- [ ] Resumir bien el [[Aprendizaje Supervisado]] (de momento desde la pagina 13 hasta k nearest )
+- [ ] Entender [[Curse of dimensionality]]
