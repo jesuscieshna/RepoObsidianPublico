@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+                "file": "TODO.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+                "file": "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+                "file": "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md"
+                "file": "Libros/ML Machine Learning-A Probabilistic Perspective.pdf"
               }
             }
           },
@@ -177,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe0081db983b658",
+  "active": "53e96891bab79e2f",
   "lastOpenFiles": [
     "TODO.md",
-    "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
     "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje Supervisado.md",
+    "Libros/ML Machine Learning-A Probabilistic Perspective.pdf",
     "AI/Apuntes Machine Learning/Chapter 1/Curse of dimensionality.md",
     "AI/Apuntes Machine Learning/Chapter 1/Generalizción.md",
     "AI/Apuntes Machine Learning/Chapter 1/Aprendizaje no Supervisado.md",
