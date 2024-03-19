@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "141152eaede544eb",
+    "id": "c06d4fa5a43746c4",
     "type": "split",
     "children": [
       {
-        "id": "06418ecd0ab8ad15",
+        "id": "f72b39089e6d2a42",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e4835529a10bc0",
+            "id": "94b27839b6bb9b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Bases/Funciones/Parámetros nombrados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "441c8fd14f6f8678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Bases/Comunicación de componentes.md",
+                "file": "Spring/Anotaciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2b9c927313946695",
+    "id": "373ec724c66b64bd",
     "type": "split",
     "children": [
       {
-        "id": "a5f380c8ddb0bffa",
+        "id": "d4861b317129c7e2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e0d16f19d3f22b4",
+            "id": "47f506a5fbb1ed92",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "81fec9afb43111cc",
+            "id": "1951b8efd3529b1c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "effbce74bdd146d5",
+            "id": "4a8361c7e9140a25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "0e0a114a90326405",
+    "id": "98b9f0b5993b2069",
     "type": "split",
     "children": [
       {
-        "id": "dec3a1212002b7ce",
+        "id": "a4135cb61844a40d",
         "type": "tabs",
         "children": [
           {
-            "id": "46171c578f3b5e9b",
+            "id": "7f1871a2845ac850",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Bases/Comunicación de componentes.md",
+                "file": "Spring/Anotaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "d6c6551eb9af3915",
+            "id": "391da0eb85bda470",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Bases/Comunicación de componentes.md",
+                "file": "Spring/Anotaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c5e9015c35ff2b33",
+            "id": "a3f2a1f552c68d15",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "0cc5b5f402b92d85",
+            "id": "eb76af6ca268dc18",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Bases/Comunicación de componentes.md"
+                "file": "Spring/Anotaciones.md"
               }
             }
           }
@@ -159,31 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441c8fd14f6f8678",
-  "lastOpenFiles": [
-    "TODO/Udemy.md",
-    "Flutter/Bases/Comunicación de componentes.md",
-    "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
-    "Recursos externos/General.md",
-    "Res/Arbol de widgets.pdf",
-    "Res/Widgets.pdf",
-    "TODO",
-    "Recursos externos/Artículos y otros",
-    "Recursos externos",
-    "Flutter/Bases/Rutas.md",
-    "Flutter/Bases/FutureBuilder.md",
-    "Flutter/Bases/Widget.md",
-    "Res",
-    "Dart/Bases/Funciones/Parámetros nombrados.md",
-    "Flutter/Bases",
-    "Dart/Clases/Mixins.md",
-    "Dart/Clases/Constructor.md",
-    "Dart/Clases",
-    "Dart/Bases/Tipado dinámico.md",
-    "Dart/Bases/Funciones",
-    "Dart/Bases/Mapas",
-    "Dart/Untitled.md",
-    "Dart/Res/Pasted image 20240313180840.png",
-    "Welcome.md"
-  ]
+  "active": "47f506a5fbb1ed92",
+  "lastOpenFiles": []
 }
