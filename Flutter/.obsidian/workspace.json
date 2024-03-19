@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "TODO/Udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "TODO/Udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "TODO/Udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Configuración.md"
+                "file": "TODO/Udemy.md"
               }
             }
           }
@@ -173,20 +173,20 @@
   },
   "active": "0767c00d20c58a3c",
   "lastOpenFiles": [
-    "TODO/Udemy.md",
-    "TODO/Configuración.md",
+    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
+    "Res/dart-cheat-sheet.pdf",
+    "Res/Arbol de widgets.pdf",
+    "Res/flutter-cheat-sheet.pdf",
+    "Res/Widgets.pdf",
     "Flutter set up.md",
+    "TODO/Configuración.md",
+    "TODO/Udemy.md",
     "Flutter/Comunicación de componentes/Comunicación de componentes.md",
     "Flutter/Bases/Either.md",
-    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
     "Flutter/Comunicación de componentes/Bloc",
     "Flutter/Comunicación de componentes",
-    "Res/flutter-cheat-sheet.pdf",
-    "Res/dart-cheat-sheet.pdf",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Recursos externos/General.md",
-    "Res/Arbol de widgets.pdf",
-    "Res/Widgets.pdf",
     "TODO",
     "Recursos externos/Artículos y otros",
     "Recursos externos",

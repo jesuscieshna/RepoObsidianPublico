@@ -9,3 +9,6 @@
 - [ ] Generación de código con freeze, además del uso de either
 
 - [ ] websockets
+
+- [ ] comprobar si con un setState volvemos a ejecutar la vista entera
+

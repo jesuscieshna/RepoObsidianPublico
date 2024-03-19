@@ -36,4 +36,4 @@ Para conexion a internet:
 android permission.INTERNET
 La configuración en ios se necesita mac
 
-**flutter pub add flutter_hooks** (facilita la creacion de stateFullWidgets)
+**flutter pub add flutter_hooks** (facilita la creacion de stateFullWidgets, useState().... guardan variables internamente y tienen listeners para ver cuando cambia).
