@@ -1,7 +1,7 @@
 
 # Intro
 
-flutter pub get (descargar dependencias)
+flutter pub get (descargar dependencias que ya están en el pubspec.yml)
 
 VS code extensions:
 dart
@@ -19,7 +19,10 @@ awesome flutter snippets
 (a la hora de usar build runner nos sirvé para anotar como queremos que se genere el mapeo de dato para encajar nuestra api con el modelo del frontend)
 
 **dart pub add freezed**
-(nos sirve para autogenerar el codigo de los toString y los copyWith, se puede utilizar conjuntamente con el json annotation)
+(autogeneracion de codigo, se puede utilizar conjuntamente con el json annotation)
+
+**flutter pub add freezed_annotation**
+
 
 **dart pub add fluter_gen_runner --dev** 
 (nos ayuda con el path de assets y otros recursos, el path pasa de ser un string hardcodeado a una especie de objeto, si no existe nos avisa)
@@ -32,3 +35,5 @@ awesome flutter snippets
 Para conexion a internet:
 android permission.INTERNET
 La configuración en ios se necesita mac
+
+**flutter pub add flutter_hooks** (facilita la creacion de stateFullWidgets)

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+                "file": "TODO/Configuración.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+                "file": "TODO/Configuración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+                "file": "TODO/Configuración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md"
+                "file": "TODO/Configuración.md"
               }
             }
           }
@@ -173,14 +173,16 @@
   },
   "active": "0767c00d20c58a3c",
   "lastOpenFiles": [
-    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
+    "TODO/Udemy.md",
+    "TODO/Configuración.md",
+    "Flutter set up.md",
     "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+    "Flutter/Bases/Either.md",
+    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
     "Flutter/Comunicación de componentes/Bloc",
     "Flutter/Comunicación de componentes",
-    "Flutter set up.md",
     "Res/flutter-cheat-sheet.pdf",
     "Res/dart-cheat-sheet.pdf",
-    "TODO/Udemy.md",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Recursos externos/General.md",
     "Res/Arbol de widgets.pdf",
