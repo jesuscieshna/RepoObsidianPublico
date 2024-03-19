@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Bases/Comunicación de componentes.md",
+                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter set up.md",
+                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter set up.md",
+                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter set up.md",
+                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter set up.md"
+                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md"
               }
             }
           }
@@ -173,7 +173,10 @@
   },
   "active": "0767c00d20c58a3c",
   "lastOpenFiles": [
-    "Flutter/Bases/Comunicación de componentes.md",
+    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
+    "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+    "Flutter/Comunicación de componentes/Bloc",
+    "Flutter/Comunicación de componentes",
     "Flutter set up.md",
     "Res/flutter-cheat-sheet.pdf",
     "Res/dart-cheat-sheet.pdf",
@@ -190,10 +193,8 @@
     "Flutter/Bases/Widget.md",
     "Res",
     "Dart/Bases/Funciones/Parámetros nombrados.md",
-    "Flutter/Bases",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
-    "Dart/Clases",
     "Dart/Bases/Tipado dinámico.md",
     "Dart/Untitled.md",
     "Dart/Res/Pasted image 20240313180840.png",
