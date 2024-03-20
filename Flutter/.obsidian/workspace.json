@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Bases/Funciones/Parámetros nombrados.md",
+                "file": "Flutter/StateManagement/Bloc/Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/Bloc/Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/Bloc/Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Udemy.md"
+                "file": "Flutter/StateManagement/Bloc/Bloc.md"
               }
             }
           }
@@ -171,30 +170,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0767c00d20c58a3c",
+  "active": "e5e4835529a10bc0",
   "lastOpenFiles": [
-    "Flutter/Comunicación de componentes/Bloc/Bloc.md",
-    "Res/dart-cheat-sheet.pdf",
-    "Res/Arbol de widgets.pdf",
-    "Res/flutter-cheat-sheet.pdf",
-    "Res/Widgets.pdf",
-    "Flutter set up.md",
+    "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "TODO/Configuración.md",
+    "Flutter/StateManagement/Bloc/Bloc.md",
+    "Flutter/StateManagement/El setState().md",
+    "Res/images/blocSimpleStructure.png",
+    "Res/images",
+    "Res/Arbol de widgets.pdf",
     "TODO/Udemy.md",
-    "Flutter/Comunicación de componentes/Comunicación de componentes.md",
+    "Flutter/StateManagement/StateManagement.md",
+    "Flutter/Bases/Widget.md",
+    "Flutter/Bases/Rutas.md",
+    "Flutter/Bases/FutureBuilder.md",
     "Flutter/Bases/Either.md",
-    "Flutter/Comunicación de componentes/Bloc",
-    "Flutter/Comunicación de componentes",
+    "Flutter/Comunicación de componentes/Bloc/Untitled.md",
+    "Res/flutter-cheat-sheet.pdf",
+    "Dart/Bases/Funciones/Parámetros nombrados.md",
+    "Res/dart-cheat-sheet.pdf",
+    "Res/Widgets.pdf",
+    "Flutter/StateManagement/Bloc",
+    "Flutter/StateManagement",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Recursos externos/General.md",
     "TODO",
     "Recursos externos/Artículos y otros",
     "Recursos externos",
-    "Flutter/Bases/Rutas.md",
-    "Flutter/Bases/FutureBuilder.md",
-    "Flutter/Bases/Widget.md",
-    "Res",
-    "Dart/Bases/Funciones/Parámetros nombrados.md",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
     "Dart/Bases/Tipado dinámico.md",

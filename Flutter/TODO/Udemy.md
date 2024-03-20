@@ -6,9 +6,11 @@
 
 - [ ] Estudiar arquitectua clean architecture: presentaction (las vistas), domain(modelado de datos), data(acceso a los datos, en nuestro caso los repositorios y cliente http para el acceso a la api)
 
-- [ ] Generación de código con freeze, además del uso de either
+- [x] Generación de código con freeze
+
+- [ ]  la clase Either
 
 - [ ] websockets
 
-- [ ] comprobar si con un setState volvemos a ejecutar la vista entera
+- [x] comprobar si con un setState volvemos a ejecutar la vista entera
 
