@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/Bloc/Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Flutter/StateManagement/Bloc/Paquete Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/Bloc/Paquete Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/Bloc/Paquete Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Udemy.md"
+                "file": "Flutter/StateManagement/Bloc/Paquete Bloc.md"
               }
             }
           }
@@ -170,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5e4835529a10bc0",
+  "active": "441c8fd14f6f8678",
   "lastOpenFiles": [
     "Flutter/StateManagement/Bloc/Bloc.md",
-    "Flutter/StateManagement/El setState().md",
-    "TODO/Udemy.md",
+    "Flutter/StateManagement/Bloc/Paquete Bloc.md",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "TODO/Configuración.md",
-    "Res/images/blocSimpleStructure.png",
-    "Res/images",
     "Res/Arbol de widgets.pdf",
+    "Res/images/blocSimpleStructure.png",
+    "Flutter/StateManagement/El setState().md",
+    "TODO/Udemy.md",
     "Flutter/StateManagement/StateManagement.md",
+    "Res/images",
     "Flutter/Bases/Widget.md",
     "Flutter/Bases/Rutas.md",
     "Flutter/Bases/FutureBuilder.md",

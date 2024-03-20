@@ -8,11 +8,11 @@
 
 - [x] Generación de código con freeze
 
-- [ ]  la clase Either
+- [ ] la clase Either
 
 - [ ] websockets
 
 - [x] comprobar si con un setState volvemos a ejecutar la vista entera
 
-- [ ] Completar tutorial de bloc, seccion 5, a partir del video 66
+- [x] Completar tutorial de bloc, seccion 5, a partir del video 66
 

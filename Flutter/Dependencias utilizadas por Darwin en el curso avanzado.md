@@ -23,7 +23,7 @@ awesome flutter snippets
 ## **dart pub add freezed**
 (autogeneracion de codigo, se puede utilizar conjuntamente con el json annotation)
 potente para crear **[[sealed unions]]**, enums de dart son débiles y esto viene a suplir esto, nos permite generar de forma rápida estructuras de decisión con los estados que le hayamos dado gracias a los métodos when(), maybeWhen() etc que nos genera freezed
-[Flutter State Management: Going from setState to Freezed & StateNotifier with Provider (en concreto los sealed unions)](https://codewithandrea.com/videos/flutter-state-management-setstate-freezed-state-notifier-provider/#solution-immutable-state-and-sealed-unions) (Rompemos O/C?, es u códio mantenible??)
+[Flutter State Management: Going from setState to Freezed & StateNotifier with Provider (en concreto los sealed unions)](https://codewithandrea.com/videos/flutter-state-management-setstate-freezed-state-notifier-provider/#solution-immutable-state-and-sealed-unions) (Rompemos O/C?, es un códio mantenible??)
 
 TODO! qué facilita freeze conjutamente con json annotation????
 
