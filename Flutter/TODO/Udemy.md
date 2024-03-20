@@ -14,3 +14,5 @@
 
 - [x] comprobar si con un setState volvemos a ejecutar la vista entera
 
+- [ ] Completar tutorial de bloc, seccion 5, a partir del video 66
+

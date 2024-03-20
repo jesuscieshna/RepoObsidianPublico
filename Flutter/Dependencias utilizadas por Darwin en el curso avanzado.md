@@ -22,7 +22,7 @@ awesome flutter snippets
 
 ## **dart pub add freezed**
 (autogeneracion de codigo, se puede utilizar conjuntamente con el json annotation)
-potente para crear **[[sealed unions]]**, enums de dart son débiles y esto viene a suplir esto, nos permite generar de forma rápida estructuras de decisión con los estados que le hayamos dado con los métodos when(), maybeWhen() ...
+potente para crear **[[sealed unions]]**, enums de dart son débiles y esto viene a suplir esto, nos permite generar de forma rápida estructuras de decisión con los estados que le hayamos dado gracias a los métodos when(), maybeWhen() etc que nos genera freezed
 [Flutter State Management: Going from setState to Freezed & StateNotifier with Provider (en concreto los sealed unions)](https://codewithandrea.com/videos/flutter-state-management-setstate-freezed-state-notifier-provider/#solution-immutable-state-and-sealed-unions) (Rompemos O/C?, es u códio mantenible??)
 
 TODO! qué facilita freeze conjutamente con json annotation????
@@ -34,7 +34,7 @@ TODO! qué facilita freeze conjutamente con json annotation????
 (nos ayuda con el path de assets y otros recursos, el path pasa de ser un string hardcodeado a una especie de objeto, si no existe nos avisa)
 
 ## **flutter pub add provider**
-(inyecion de dependencas)
+(inyecion de dependencas) En los vídeos utiliza provider para inyectar una única instancia creada de los repositorios a las pantallas que lo necesiten
 
 ## **flutter pub add http** (Para el manejo de fetch y responses)
 

@@ -11,3 +11,5 @@ Se puede apreciar que la comunicación de **datos** entre la UI y el bloc es uni
 
 ![[blocSimpleStructure.png]]
 El objetivo de Bloc como de otros patrones de StateManagement es separar a la vista de la lógica de negocio 
+
+
