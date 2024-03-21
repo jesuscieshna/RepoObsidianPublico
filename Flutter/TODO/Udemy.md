@@ -16,5 +16,7 @@
 
 - [x] Completar tutorial de bloc, seccion 5, a partir del video 66
 
-- [ ] Como funciona el contexto en una vista, seg
+- [ ] Contexto e información entre widgets
+
+- [ ] Aprender sobre asincronía y los Futures
 

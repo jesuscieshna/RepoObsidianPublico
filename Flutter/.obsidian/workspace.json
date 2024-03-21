@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependencias utilizadas por Darwin en el curso avanzado.md",
+                "file": "TODO/Udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO!",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependencias utilizadas por Darwin en el curso avanzado.md",
+                "file": "TODO/Udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dependencias utilizadas por Darwin en el curso avanzado.md",
+                "file": "TODO/Udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dependencias utilizadas por Darwin en el curso avanzado.md"
+                "file": "TODO/Udemy.md"
               }
             }
           }
@@ -160,9 +160,15 @@
   },
   "active": "e5e4835529a10bc0",
   "lastOpenFiles": [
-    "Flutter/Api/Clase Http.md",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
+    "Flutter/View/Introducción a los widgets de flutter.md",
+    "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
+    "Recursos externos/General.md",
+    "Flutter/Api/Clase Http.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
+    "Res/images/blocSimpleStructure.png",
+    "Flutter/View",
+    "Flutter/Untitled.md",
     "TODO/Udemy.md",
     "Flutter/StateManagement/Bloc/Bloc.md",
     "Flutter/Web service/Untitled.md",
@@ -173,7 +179,6 @@
     "Flutter/StateManagement/Untitled.md",
     "TODO/Configuración.md",
     "Res/Arbol de widgets.pdf",
-    "Res/images/blocSimpleStructure.png",
     "Flutter/StateManagement/El setState().md",
     "Flutter/StateManagement/StateManagement.md",
     "Res/images",
@@ -188,15 +193,10 @@
     "Res/Widgets.pdf",
     "Flutter/StateManagement/Bloc",
     "Flutter/StateManagement",
-    "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
-    "Recursos externos/General.md",
     "TODO",
-    "Recursos externos/Artículos y otros",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
     "Dart/Bases/Tipado dinámico.md",
-    "Dart/Untitled.md",
-    "Dart/Res/Pasted image 20240313180840.png",
-    "Welcome.md"
+    "Dart/Res/Pasted image 20240313180840.png"
   ]
 }

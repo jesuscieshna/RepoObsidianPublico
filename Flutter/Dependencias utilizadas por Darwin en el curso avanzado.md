@@ -42,6 +42,10 @@ Para conexion a internet:
 android permission.INTERNET
 La configuración en ios se necesita mac
 
+## **flutter pub add dio**
+
+es un poco más completa que Http, también necesitamos los permisos para internet en android
+
 ## **flutter pub add flutter_hooks** 
 
 **Disclaimer** es un paquete interesante, reduce tu código, para un principiante tal vez no sea lo mejor ya que te abstrae de clases y métodos interesantes de flutter vanilla
