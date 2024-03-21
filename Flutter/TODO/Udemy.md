@@ -16,3 +16,5 @@
 
 - [x] Completar tutorial de bloc, seccion 5, a partir del video 66
 
+- [ ] Como funciona el contexto en una vista, seg
+

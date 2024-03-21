@@ -81,3 +81,14 @@ En el 52 utiliza el useState() tal vez sea negativo a nivel de rendimiento el re
 **Hooks y streams**
 - [video 54](https://www.udemy.com/course/flutter-avanzado/learn/lecture/36588972#overview) trabaja con la conectividad a internet a través de hooks.
 
+## **flutter pub add flutter_secure_storage**
+
+para esta dependencia necesitamos una versión mínima de la api 18 en minSdkVersion
+
+![[cambio de la api minima soportada por nuestra app en android.png|2000]]
+
+
+## **flutter pub add flutter_svg**
+
+para renderizar svgs
+

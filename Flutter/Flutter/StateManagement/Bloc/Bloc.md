@@ -21,6 +21,22 @@ Se puede apreciar que la comunicación de **datos** entre la UI y el bloc es uni
 ![[blocSimpleStructure.png]]
 El objetivo de Bloc como de otros patrones de StateManagement es separar a la vista de la lógica de negocio 
 
+Un bloc es una estructura algo compleja ya que une mucha abstracción mediante un sistema de herencias de clases abstractas para escribir menos código, el manejo de eventos y refrescos de una vista y algo de programación funcional.
+
+## bloc package
+
+Aporta la clase Bloc, donde ya tenemos esa estructura abstracta para implementar rápidamente nuestros blocs.
+
+Esta clase Bloc necesita dos estructuras de datos parametrizadas, los eventos y los estados (de hecho lo que tendremos son varios estados y varios eventos con los que la clase podrá trabajar). Como en Dart no tenemos enums suficientemente potentes utilizamos freezed para generar [[sealed unions]] y aporta comportamiento a estos enums. Es una solución algo engorrosa, llena de magia y de la que desconozco sus limitaciones.
+
+## flutter_bloc package
+
+Nos aporta widgets para facilitar el uso de los blocs en nuestras vistas.
+
+BlocProvider, que nos retorna un bloc del tipo que necesitemos
+
+BlocBuilder, que nos permite escuchar los cambios en propidades de nuestro estado y renderizar widgets concretos de nuestra vista
+
 
 
 
