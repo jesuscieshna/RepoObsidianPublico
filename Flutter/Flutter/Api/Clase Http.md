@@ -7,7 +7,7 @@ Además genera una clase de utilidad para manejar los errores de las posibles pe
 
 [Fichero dart de utilidad para manejo de errores](https://github.com/darwin-morocho/flutter-avanzado/blob/final/blockchain_bloc_authentication/lib/app/data/utils.dart)
 
-Esta clase utliza [[sealed unions]] para los posibles errores
+Esta clase utliza [[sealed unions]] para generar clases para manejar los posibles errores en la petición
 
 TODO! problemas para realizar dart run run_builder build, por lo que no se está generando el código necesario, en concreto la [[sealed unions]] de los errores. Podría ser por un tema de dependencias deprecadas, o por un problema de configuración.
 

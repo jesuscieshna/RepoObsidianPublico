@@ -16,7 +16,10 @@
 
 - [x] Completar tutorial de bloc, seccion 5, a partir del video 66
 
-- [ ] Contexto e información entre widgets
-
 - [ ] Aprender sobre asincronía y los Futures
+
+- [ ] Aprender sobre el tema de los contextos y como se pasan entre los Widgets
+
+- [ ] Aprender sobre los inheritedWidgets [InheritedWidgets | Decoding Flutter (youtube.com)](https://www.youtube.com/watch?v=og-vJqLzg2c)
+
 

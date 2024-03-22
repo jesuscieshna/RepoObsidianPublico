@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+                "file": "TODO/Udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+                "file": "TODO/Udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+                "file": "TODO/Udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md"
+                "file": "TODO/Udemy.md"
               }
             }
           }
@@ -173,17 +173,17 @@
   },
   "active": "a63c115246b87ef1",
   "lastOpenFiles": [
-    "Personas.md",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+    "Personas.md",
+    "Flutter/Api/Clase Http.md",
+    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
+    "Flutter/StateManagement/StateManagement.md",
+    "TODO/Udemy.md",
     "Personas",
     "Flutter/StateManagement/El setState().md",
-    "Flutter/StateManagement/StateManagement.md",
     "Flutter/StateManagement/Untitled.md",
-    "TODO/Udemy.md",
     "Flutter/Rendimiento",
     "Flutter/View/Introducción a los widgets de flutter.md",
-    "Flutter/Api/Clase Http.md",
     "Flutter/Api/Untitled.md",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Recursos externos/General.md",

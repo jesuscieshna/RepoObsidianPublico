@@ -5,4 +5,5 @@ Si tenemos una vista que puede cambiar mucho si apartado visual en función de v
 - patron bloc (business logic components), hecho y recomendado por flutter (algunos disidentes),
 - [CodeWithAndrea wabs (2019)]((https://codewithandrea.com/articles/wabs-practical-architecture-flutter-apps/)
 - Riverpod, una evolución de providers
+- InheritedWidgets
 
