@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Api/Clase Http.md",
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a63c115246b87ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0e0a114a90326405",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Api/Clase Http.md",
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Api/Clase Http.md",
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Api/Clase Http.md"
+                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md"
               }
             }
           }
@@ -158,13 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5e4835529a10bc0",
+  "active": "a63c115246b87ef1",
   "lastOpenFiles": [
-    "Flutter/Api/Untitled.md",
-    "Flutter/Api/Clase Http.md",
-    "Flutter/View/Introducción a los widgets de flutter.md",
-    "TODO/Udemy.md",
+    "Personas.md",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
+    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter.md",
+    "Personas",
+    "Flutter/StateManagement/El setState().md",
+    "Flutter/StateManagement/StateManagement.md",
+    "Flutter/StateManagement/Untitled.md",
+    "TODO/Udemy.md",
+    "Flutter/Rendimiento",
+    "Flutter/View/Introducción a los widgets de flutter.md",
+    "Flutter/Api/Clase Http.md",
+    "Flutter/Api/Untitled.md",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Recursos externos/General.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
@@ -177,11 +197,8 @@
     "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Flutter/StateManagement/Bloc/Paquete Bloc.md",
     "Flutter/Bases/copyWith.md",
-    "Flutter/StateManagement/Untitled.md",
     "TODO/Configuración.md",
     "Res/Arbol de widgets.pdf",
-    "Flutter/StateManagement/El setState().md",
-    "Flutter/StateManagement/StateManagement.md",
     "Res/images",
     "Flutter/Bases/Widget.md",
     "Flutter/Bases/Rutas.md",
@@ -193,11 +210,7 @@
     "Res/dart-cheat-sheet.pdf",
     "Res/Widgets.pdf",
     "Flutter/StateManagement/Bloc",
-    "Flutter/StateManagement",
-    "TODO",
     "Dart/Clases/Mixins.md",
-    "Dart/Clases/Constructor.md",
-    "Dart/Bases/Tipado dinámico.md",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }
