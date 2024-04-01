@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Flutter/testing/Flutter driver.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Flutter/testing/Flutter driver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Flutter/testing/Flutter driver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md"
+                "file": "Flutter/testing/Flutter driver.md"
               }
             }
           }
@@ -160,11 +160,13 @@
   },
   "active": "e5e4835529a10bc0",
   "lastOpenFiles": [
+    "Flutter/StateManagement/StateManagement.md",
+    "Flutter/testing/Flutter driver.md",
+    "Flutter/testing",
     "Flutter/Builder/Builders.md",
     "Personas.md",
     "Flutter/Builder",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "Flutter/StateManagement/StateManagement.md",
     "TODO/Udemy.md",
     "Recursos externos/General.md",
     "Dart/Clases/Constructor.md",
@@ -194,10 +196,8 @@
     "Flutter/Bases/Rutas.md",
     "Flutter/Bases/FutureBuilder.md",
     "Flutter/Bases/Either.md",
-    "Flutter/Comunicación de componentes/Bloc/Untitled.md",
     "Res/flutter-cheat-sheet.pdf",
     "Res/dart-cheat-sheet.pdf",
-    "Res/Widgets.pdf",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }
