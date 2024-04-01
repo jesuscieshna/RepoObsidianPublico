@@ -17,3 +17,7 @@ Gran docente online, cursos gratuitos de flutter
 # Darwin Morocho
 
 Curso avanzado de udemy y mini cursos gratuitos en youtube
+
+# Filip Hracek
+
+Múltiples charlas de google, trata temas como manejo de estado o performance
