@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas.md",
+                "file": "Flutter/View/video.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas.md",
+                "file": "Flutter/View/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas.md",
+                "file": "Flutter/View/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas.md"
+                "file": "Flutter/View/video.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   "active": "e5e4835529a10bc0",
   "lastOpenFiles": [
     "Flutter/testing/Flutter driver.md",
+    "Flutter/View/video.md",
+    "Personas.md",
     "Flutter/StateManagement/StateManagement.md",
     "Flutter/testing",
     "Flutter/Builder/Builders.md",
-    "Personas.md",
     "Flutter/Builder",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "TODO/Udemy.md",
@@ -195,7 +196,6 @@
     "Res/images",
     "Flutter/Bases/Rutas.md",
     "Flutter/Bases/FutureBuilder.md",
-    "Flutter/Bases/Either.md",
     "Res/flutter-cheat-sheet.pdf",
     "Res/dart-cheat-sheet.pdf",
     "Dart/Res/Pasted image 20240313180840.png"
