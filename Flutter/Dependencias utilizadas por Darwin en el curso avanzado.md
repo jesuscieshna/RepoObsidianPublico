@@ -87,6 +87,8 @@ En el 52 utiliza el useState() tal vez sea negativo a nivel de rendimiento el re
 
 ## **flutter pub add flutter_secure_storage**
 
+se podría utilizar sharedPreferences, pero estos datos se guardan en texto plano y son compartidos por todas las aplicaciones.
+
 para esta dependencia necesitamos una versión mínima de la api 18 en minSdkVersion
 
 ![[cambio de la api minima soportada por nuestra app en android.png|2000]]
@@ -95,4 +97,11 @@ para esta dependencia necesitamos una versión mínima de la api 18 en minSdkVer
 ## **flutter pub add flutter_svg**
 
 para renderizar svgs
+
+## **get_it**
+
+para inyeccion de dependencias
+
+
+
 

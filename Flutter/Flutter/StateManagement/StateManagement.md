@@ -1,9 +1,11 @@
-Si tenemos una vista que puede cambiar mucho si apartado visual en función de varios estados alfinal acabaremos entrando en el mundo del stateManagement. Que lo que nos permitirá será renderizar Widgets diferentes según el estado y también gestionar estados globales en la aplicación.
+Si tenemos una vista que puede cambiar mucho su apartado visual en función de varios estados al final acabaremos entrando en el mundo del stateManagement. Que lo que nos permitirá será renderizar Widgets diferentes según el estado y también gestionar estados globales en la aplicación.
 
-- setState() bien para proyectos pequeños sin mucha comunicación
+[Respuesta en stack overflow hablando sobre setState y otros mecanismos](https://stackoverflow.com/questions/76741086/when-to-use-setstate-if-you-are-already-using-bloc-or-provider-or-anything-or#:~:text=Answering%20you%20main%20question%20%E2%80%93%20in%20general%2C%20it%27s,and%20do%20not%20naturally%20conflict%20with%20each%20other.)
+
+- setState() bien para estados locales no compartidos
+- InheritedWidgets solucion vanilla y algo compleja de usar
 - Provider, inyeccion de dependencias, las vistas tienen el mismo objeto
-- patron bloc (business logic components), hecho y recomendado por flutter (algunos disidentes),
-- [CodeWithAndrea wabs (2019)]((https://codewithandrea.com/articles/wabs-practical-architecture-flutter-apps/)
+- patron bloc (business logic components), hecho y recomendado por flutter
 - Riverpod, una evolución de providers
-- InheritedWidgets
 
+En general los paquetes de manejo de estado tendrán la utilidad de compartir el estado entre varios widgets distantes entre sí.

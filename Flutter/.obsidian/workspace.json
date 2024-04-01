@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a63c115246b87ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Udemy.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Udemy.md"
+                "file": "Flutter/StateManagement/StateManagement.md"
               }
             }
           }
@@ -171,46 +158,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63c115246b87ef1",
+  "active": "e5e4835529a10bc0",
   "lastOpenFiles": [
-    "Dependencias utilizadas por Darwin en el curso avanzado.md",
+    "Flutter/Builder/Builders.md",
     "Personas.md",
-    "Flutter/Api/Clase Http.md",
-    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
+    "Flutter/Builder",
+    "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "Flutter/StateManagement/StateManagement.md",
     "TODO/Udemy.md",
-    "Personas",
+    "Recursos externos/General.md",
+    "Dart/Clases/Constructor.md",
+    "Flutter/Api/Clase Http.md",
+    "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
+    "Flutter/StateManagement/Bloc/Bloc.md",
+    "TODO/Configuración.md",
+    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/StateManagement/El setState().md",
+    "Res/Arbol de widgets.pdf",
+    "Flutter/Bases/Widget.md",
+    "Personas",
     "Flutter/StateManagement/Untitled.md",
     "Flutter/Rendimiento",
     "Flutter/View/Introducción a los widgets de flutter.md",
     "Flutter/Api/Untitled.md",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
-    "Recursos externos/General.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Flutter/View",
     "Flutter/Untitled.md",
-    "Flutter/StateManagement/Bloc/Bloc.md",
     "Flutter/Web service/Untitled.md",
     "Flutter/Api",
-    "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Flutter/StateManagement/Bloc/Paquete Bloc.md",
     "Flutter/Bases/copyWith.md",
-    "TODO/Configuración.md",
-    "Res/Arbol de widgets.pdf",
     "Res/images",
-    "Flutter/Bases/Widget.md",
     "Flutter/Bases/Rutas.md",
     "Flutter/Bases/FutureBuilder.md",
     "Flutter/Bases/Either.md",
     "Flutter/Comunicación de componentes/Bloc/Untitled.md",
     "Res/flutter-cheat-sheet.pdf",
-    "Dart/Bases/Funciones/Parámetros nombrados.md",
     "Res/dart-cheat-sheet.pdf",
     "Res/Widgets.pdf",
-    "Flutter/StateManagement/Bloc",
-    "Dart/Clases/Mixins.md",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }

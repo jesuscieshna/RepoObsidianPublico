@@ -21,5 +21,8 @@
 - [ ] Aprender sobre el tema de los contextos y como se pasan entre los Widgets
 
 - [ ] Aprender sobre los inheritedWidgets [InheritedWidgets | Decoding Flutter (youtube.com)](https://www.youtube.com/watch?v=og-vJqLzg2c)
+[InheritedWidget class - widgets library - Dart API (flutter.dev)](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+[InheritedWidgets de google](https://www.youtube.com/watch?v=Zbm3hjPjQMk)
+
 
 
