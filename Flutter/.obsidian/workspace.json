@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Personas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Personas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md",
+                "file": "Personas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/StateManagement/StateManagement.md"
+                "file": "Personas.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "bf556d9acae3654e",
   "lastOpenFiles": [
+    "Flutter/StateManagement/StateManagement.md",
     "Flutter/testing/Flutter driver.md",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
@@ -182,7 +183,6 @@
     "Personas.md",
     "Tecnologías interesantes.md",
     "Flutter/View/video.md",
-    "Flutter/StateManagement/StateManagement.md",
     "Flutter/testing",
     "Flutter/Builder/Builders.md",
     "Flutter/Builder",
