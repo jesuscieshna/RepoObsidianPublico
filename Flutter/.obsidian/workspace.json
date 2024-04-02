@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/View/video.md",
+                "file": "Flutter/testing/Flutter driver.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf556d9acae3654e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/View/video.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/View/video.md",
+                "file": "Flutter/StateManagement/StateManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/View/video.md"
+                "file": "Flutter/StateManagement/StateManagement.md"
               }
             }
           }
@@ -158,23 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5e4835529a10bc0",
+  "active": "bf556d9acae3654e",
   "lastOpenFiles": [
     "Flutter/testing/Flutter driver.md",
-    "Flutter/View/video.md",
+    "Dart/Clases/Mixins.md",
+    "Dart/Clases/Constructor.md",
+    "TODO/Configuración.md",
+    "TODO/Udemy.md",
+    "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "Personas.md",
+    "Tecnologías interesantes.md",
+    "Flutter/View/video.md",
     "Flutter/StateManagement/StateManagement.md",
     "Flutter/testing",
     "Flutter/Builder/Builders.md",
     "Flutter/Builder",
-    "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "TODO/Udemy.md",
     "Recursos externos/General.md",
-    "Dart/Clases/Constructor.md",
     "Flutter/Api/Clase Http.md",
     "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Flutter/StateManagement/Bloc/Bloc.md",
-    "TODO/Configuración.md",
     "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/StateManagement/El setState().md",
     "Res/Arbol de widgets.pdf",
@@ -194,8 +209,6 @@
     "Flutter/StateManagement/Bloc/Paquete Bloc.md",
     "Flutter/Bases/copyWith.md",
     "Res/images",
-    "Flutter/Bases/Rutas.md",
-    "Flutter/Bases/FutureBuilder.md",
     "Res/flutter-cheat-sheet.pdf",
     "Res/dart-cheat-sheet.pdf",
     "Dart/Res/Pasted image 20240313180840.png"
