@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas.md",
+                "file": "Flutter/Native code/Ideas generales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "911434508f9196b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas de aplicaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO!",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas.md",
+                "file": "Ideas de aplicaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas.md",
+                "file": "Ideas de aplicaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas.md"
+                "file": "Ideas de aplicaciones.md"
               }
             }
           }
@@ -171,46 +183,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf556d9acae3654e",
+  "active": "911434508f9196b9",
   "lastOpenFiles": [
-    "Flutter/StateManagement/StateManagement.md",
+    "Flutter/Native code/Ideas generales.md",
+    "Ideas de aplicaciones.md",
+    "TODO/Udemy.md",
+    "Res/images/NativeCodeEscheme.png",
     "Flutter/testing/Flutter driver.md",
+    "Flutter/Native code",
+    "Flutter/StateManagement/StateManagement.md",
+    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
+    "Flutter/Builder/Builders.md",
+    "Personas.md",
+    "vpn.md",
+    "Tecnologías interesantes.md",
+    "Flutter/View/Introducción a los widgets de flutter.md",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
     "TODO/Configuración.md",
-    "TODO/Udemy.md",
     "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "Personas.md",
-    "Tecnologías interesantes.md",
     "Flutter/View/video.md",
     "Flutter/testing",
-    "Flutter/Builder/Builders.md",
     "Flutter/Builder",
     "Recursos externos/General.md",
     "Flutter/Api/Clase Http.md",
     "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Flutter/StateManagement/Bloc/Bloc.md",
-    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/StateManagement/El setState().md",
     "Res/Arbol de widgets.pdf",
     "Flutter/Bases/Widget.md",
     "Personas",
     "Flutter/StateManagement/Untitled.md",
     "Flutter/Rendimiento",
-    "Flutter/View/Introducción a los widgets de flutter.md",
     "Flutter/Api/Untitled.md",
     "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Flutter/View",
     "Flutter/Untitled.md",
-    "Flutter/Web service/Untitled.md",
     "Flutter/Api",
-    "Flutter/StateManagement/Bloc/Paquete Bloc.md",
-    "Flutter/Bases/copyWith.md",
     "Res/images",
     "Res/flutter-cheat-sheet.pdf",
-    "Res/dart-cheat-sheet.pdf",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }
