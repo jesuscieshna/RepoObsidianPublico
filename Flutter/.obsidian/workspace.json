@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/testing/Flutter driver.md",
-                "mode": "preview",
+                "file": "Migracion a null safety/Pasos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas de aplicaciones.md",
+                "file": "Migracion a null safety/Pasos.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aac9fece712d3505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arreglar configuracion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas de aplicaciones.md",
+                "file": "Arreglar configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas de aplicaciones.md",
+                "file": "Arreglar configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas de aplicaciones.md"
+                "file": "Arreglar configuracion.md"
               }
             }
           }
@@ -183,20 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "911434508f9196b9",
+  "active": "aac9fece712d3505",
   "lastOpenFiles": [
+    "Tecnologías interesantes.md",
+    "Arreglar configuracion.md",
+    "Migracion a null safety/Pasos.md",
+    "Flutter/testing/Flutter driver.md",
+    "Flutter/StateManagement/StateManagement.md",
+    "Migracion a null safety",
     "Flutter/Native code/Ideas generales.md",
     "Ideas de aplicaciones.md",
     "TODO/Udemy.md",
     "Res/images/NativeCodeEscheme.png",
-    "Flutter/testing/Flutter driver.md",
     "Flutter/Native code",
-    "Flutter/StateManagement/StateManagement.md",
     "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/Builder/Builders.md",
     "Personas.md",
     "vpn.md",
-    "Tecnologías interesantes.md",
     "Flutter/View/Introducción a los widgets de flutter.md",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
@@ -216,14 +231,11 @@
     "Flutter/StateManagement/Untitled.md",
     "Flutter/Rendimiento",
     "Flutter/Api/Untitled.md",
-    "Recursos externos/Artículos y otros/Arquitectura en flutter.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Flutter/View",
-    "Flutter/Untitled.md",
     "Flutter/Api",
     "Res/images",
-    "Res/flutter-cheat-sheet.pdf",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }
