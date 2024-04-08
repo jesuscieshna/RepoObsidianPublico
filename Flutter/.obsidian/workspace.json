@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arreglar configuracion.md",
+                "file": "Tecnologías interesantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b83f4483d678b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/Udemy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "180dadd2ed911bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funcion interna de Ondupack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arreglar configuracion.md",
+                "file": "Funcion interna de Ondupack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arreglar configuracion.md",
+                "file": "Funcion interna de Ondupack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arreglar configuracion.md"
+                "file": "Funcion interna de Ondupack.md"
               }
             }
           }
@@ -195,28 +219,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac9fece712d3505",
+  "active": "180dadd2ed911bfb",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Funcion interna de Ondupack.md",
+    "TODO/Udemy.md",
+    "TODO/Aplicación bobinas.md",
+    "TODO/Configuración.md",
+    "Aplicación Bobinas.md",
     "Tecnologías interesantes.md",
-    "Arreglar configuracion.md",
     "Migracion a null safety/Pasos.md",
+    "Flutter/Native code/Ideas generales.md",
+    "Personas.md",
+    "Ideas de aplicaciones.md",
+    "Dependencias utilizadas por Darwin en el curso avanzado.md",
+    "Arreglar configuracion.md",
     "Flutter/testing/Flutter driver.md",
     "Flutter/StateManagement/StateManagement.md",
     "Migracion a null safety",
-    "Flutter/Native code/Ideas generales.md",
-    "Ideas de aplicaciones.md",
-    "TODO/Udemy.md",
     "Res/images/NativeCodeEscheme.png",
     "Flutter/Native code",
     "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/Builder/Builders.md",
-    "Personas.md",
     "vpn.md",
     "Flutter/View/Introducción a los widgets de flutter.md",
     "Dart/Clases/Mixins.md",
     "Dart/Clases/Constructor.md",
-    "TODO/Configuración.md",
-    "Dependencias utilizadas por Darwin en el curso avanzado.md",
     "Flutter/View/video.md",
     "Flutter/testing",
     "Flutter/Builder",
@@ -224,13 +252,9 @@
     "Flutter/Api/Clase Http.md",
     "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Flutter/StateManagement/Bloc/Bloc.md",
-    "Flutter/StateManagement/El setState().md",
     "Res/Arbol de widgets.pdf",
-    "Flutter/Bases/Widget.md",
     "Personas",
-    "Flutter/StateManagement/Untitled.md",
     "Flutter/Rendimiento",
-    "Flutter/Api/Untitled.md",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Flutter/View",
