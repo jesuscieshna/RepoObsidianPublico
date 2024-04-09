@@ -1,2 +1,3 @@
+
 - Rx: librería para facilitar el paradigma reactive programming y conseguir apps muy interactivas
 - Riverpod: gestor de estado evolución de provider

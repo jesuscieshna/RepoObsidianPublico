@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funcion interna de Ondupack.md",
+                "file": "TODO/Configuración.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funcion interna de Ondupack.md",
+                "file": "TODO/Configuración.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funcion interna de Ondupack.md",
+                "file": "TODO/Configuración.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funcion interna de Ondupack.md"
+                "file": "TODO/Configuración.md"
               }
             }
           }
@@ -221,19 +221,19 @@
   },
   "active": "180dadd2ed911bfb",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Tecnologías interesantes.md",
+    "Personas.md",
+    "Ideas de aplicaciones.md",
     "Funcion interna de Ondupack.md",
+    "Dependencias utilizadas por Darwin en el curso avanzado.md",
+    "Arreglar configuracion.md",
+    "Untitled.canvas",
     "TODO/Udemy.md",
     "TODO/Aplicación bobinas.md",
     "TODO/Configuración.md",
     "Aplicación Bobinas.md",
-    "Tecnologías interesantes.md",
     "Migracion a null safety/Pasos.md",
     "Flutter/Native code/Ideas generales.md",
-    "Personas.md",
-    "Ideas de aplicaciones.md",
-    "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "Arreglar configuracion.md",
     "Flutter/testing/Flutter driver.md",
     "Flutter/StateManagement/StateManagement.md",
     "Migracion a null safety",

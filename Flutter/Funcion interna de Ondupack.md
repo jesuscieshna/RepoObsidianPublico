@@ -35,4 +35,4 @@ Cuando un lote llega a expediciones hay dos posibilidades:
 
 Cada lote tiene asociado su ubicación y código para que los operarios puedan acceder rápidamente a los lugares donde están.
 
-Tras el envió a un cliente se autogenerael albarán.
+Tras el envió a un cliente se autogenera el albarán.
