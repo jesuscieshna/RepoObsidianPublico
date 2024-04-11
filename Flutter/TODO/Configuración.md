@@ -1,5 +1,6 @@
 
-- [ ] Tocar la bios de la máquina virtual para permitir VT-x and NX, puede que no este iniciando bien los emuladores por esto
+- [ ] Tocar la bios para activar virtualizacón
 
-[a lo mejor esto ayuda con los dispositivos fisicos](https://stackoverflow.com/questions/60829713/usb-debugging-on-physical-device-within-a-virtual-machine-development-environmen)
 
+Get-ComputerInfo -property "HyperV*"
+tras este comando se ve que no esta habilitado
