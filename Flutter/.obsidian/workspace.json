@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Flutter/View/ItsAllWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Flutter/View/ItsAllWidgets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Flutter/View/ItsAllWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Configuración.md"
+                "file": "Flutter/View/ItsAllWidgets.md"
               }
             }
           }
@@ -221,6 +221,12 @@
   },
   "active": "180dadd2ed911bfb",
   "lastOpenFiles": [
+    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
+    "Flutter/View/ItsAllWidgets.md",
+    "Flutter/View/Widgets/Listas y Slivers.md",
+    "Flutter/View/Widgets",
+    "Flutter/Untitled",
+    "TODO/Configuración.md",
     "Tecnologías interesantes.md",
     "Personas.md",
     "Ideas de aplicaciones.md",
@@ -230,7 +236,6 @@
     "Untitled.canvas",
     "TODO/Udemy.md",
     "TODO/Aplicación bobinas.md",
-    "TODO/Configuración.md",
     "Aplicación Bobinas.md",
     "Migracion a null safety/Pasos.md",
     "Flutter/Native code/Ideas generales.md",
@@ -239,7 +244,6 @@
     "Migracion a null safety",
     "Res/images/NativeCodeEscheme.png",
     "Flutter/Native code",
-    "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
     "Flutter/Builder/Builders.md",
     "vpn.md",
     "Flutter/View/Introducción a los widgets de flutter.md",
@@ -251,15 +255,12 @@
     "Recursos externos/General.md",
     "Flutter/Api/Clase Http.md",
     "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
-    "Flutter/StateManagement/Bloc/Bloc.md",
     "Res/Arbol de widgets.pdf",
     "Personas",
     "Flutter/Rendimiento",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Flutter/View",
-    "Flutter/Api",
-    "Res/images",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }
