@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Arreglar configuracion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996baf7a6c14f003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart/Async/Streams.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Dart/Async/Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/Configuración.md",
+                "file": "Dart/Async/Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/Configuración.md"
+                "file": "Dart/Async/Streams.md"
               }
             }
           }
@@ -219,48 +231,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "180dadd2ed911bfb",
+  "active": "996baf7a6c14f003",
   "lastOpenFiles": [
-    "Flutter/View/ItsAllWidgets.md",
+    "Flutter/Builder/Builders.md",
+    "Dart/Async/Streams.md",
     "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
+    "Flutter/Native code/Ideas generales.md",
+    "Flutter/Bases/Widget.md",
+    "Flutter/Bases/FutureBuilder.md",
+    "Flutter/Bases/Either.md",
+    "Flutter/Bases/copyWith.md",
+    "Flutter/Api/Clase Http.md",
+    "Dart/Bases/Funciones/Parámetros nombrados.md",
+    "Dart/Bases/Tipado dinámico.md",
+    "Dart/Async/Isolates.md",
+    "Dart/Async/Futures.md",
+    "Dart/Async/Event loop.md",
+    "Res/images/Sync_Async_Data.png",
+    "Personas.md",
+    "Dart/Async",
+    "Flutter/View/Android & IOS differences.md",
+    "Flutter/View/ItsAllWidgets.md",
+    "Flutter/View/video.md",
+    "Flutter/View/Introducción a los widgets de flutter.md",
+    "Arreglar configuracion.md",
+    "Tecnologías interesantes.md",
+    "Upgrade android gradle in a flutter project.md",
+    "TODO/Configuración.md",
     "Flutter/View/Widgets/Listas y Slivers.md",
     "Flutter/View/Widgets",
     "Flutter/Untitled",
-    "TODO/Configuración.md",
-    "Tecnologías interesantes.md",
-    "Personas.md",
     "Ideas de aplicaciones.md",
     "Funcion interna de Ondupack.md",
-    "Dependencias utilizadas por Darwin en el curso avanzado.md",
-    "Arreglar configuracion.md",
     "Untitled.canvas",
-    "TODO/Udemy.md",
-    "TODO/Aplicación bobinas.md",
-    "Aplicación Bobinas.md",
-    "Migracion a null safety/Pasos.md",
-    "Flutter/Native code/Ideas generales.md",
-    "Flutter/testing/Flutter driver.md",
-    "Flutter/StateManagement/StateManagement.md",
     "Migracion a null safety",
     "Res/images/NativeCodeEscheme.png",
     "Flutter/Native code",
-    "Flutter/Builder/Builders.md",
-    "vpn.md",
-    "Flutter/View/Introducción a los widgets de flutter.md",
-    "Dart/Clases/Mixins.md",
-    "Dart/Clases/Constructor.md",
-    "Flutter/View/video.md",
     "Flutter/testing",
     "Flutter/Builder",
-    "Recursos externos/General.md",
-    "Flutter/Api/Clase Http.md",
-    "Flutter/StateManagement/Bloc/Web Socket con Bloc.md",
     "Res/Arbol de widgets.pdf",
     "Personas",
     "Flutter/Rendimiento",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
-    "Flutter/View",
     "Dart/Res/Pasted image 20240313180840.png"
   ]
 }

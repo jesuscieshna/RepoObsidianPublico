@@ -1,0 +1,1 @@
+Flutter funciona en un único hilo, todos los eventos se procesan de uno en uno. Si estos procesos pueden desencadenar más eventos se le indica al event loop como actuar cuando este evento suceda.
