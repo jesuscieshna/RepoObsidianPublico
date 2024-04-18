@@ -2,7 +2,7 @@
 
 - [ ] Practicar parseo de datos con json serializable y freeze (cuidado con la configuracion de los yml y los gitignore)
 
-- [ ] algo de programacion funcional de dart
+- [x] algo de programacion funcional de dart
 
 - [ ] Estudiar arquitectua clean architecture: presentaction (las vistas), domain(modelado de datos), data(acceso a los datos, en nuestro caso los repositorios y cliente http para el acceso a la api)
 
@@ -16,7 +16,7 @@
 
 - [x] Completar tutorial de bloc, seccion 5, a partir del video 66
 
-- [ ] Aprender sobre asincronía y los Futures
+- [x] Aprender sobre asincronía y los Futures
 
 - [ ] Aprender sobre el tema de los contextos y como se pasan entre los Widgets
 

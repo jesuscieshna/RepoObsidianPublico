@@ -1,7 +1,7 @@
 Corto plazo
 
 - [ ] Aplicar null safety al proyecto (Migración a dart 2.19) 
-- [ ] Cambiar nombre de ficheros al nombrado utilizado por dart, tal vez no permita inicializar la app por nombrado
+- [x] Cambiar nombre de ficheros al nombrado utilizado por dart, tal vez no permita inicializar la app por nombrado
 
 
 A largo plazo
