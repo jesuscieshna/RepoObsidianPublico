@@ -7,6 +7,8 @@ El pepel viene en bobinas, estas están en el almacén.
 Siempre hay una segunda bobina lista para hacer el cambio cuando la primera se acaba.
 Hay una zona de pulmón donde se van colocando las bobinas de papel necesitado cercano a las onduladoras, para rellenar el almacenaje de la máquina.  
 
+En la aplicación podemos acceder a varios almacenes, tanto las diferentes naves como la zona de pulmón se representan en la app para mostrar las bobinas y su ubicación.
+
 Son 5 grupos de onduladoras.
 Los grupos impares hacen laminas lisas (1,3,5)
 Los grupos pares hacen laminas onduladas (2,4)
