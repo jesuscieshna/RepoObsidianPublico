@@ -31,7 +31,7 @@ Aquí se puede ver una clase de android para manejar los permisos, escucha y env
 [Clase de conexión Dart](https://github.com/meedu-app/flutter-platform-channels-example/blob/master/lib/native/geolaction.dart)
 [Clase de conexión Android](https://github.com/meedu-app/flutter-platform-channels-example/blob/master/android/app/src/main/java/app/meedu/platform_channels_demo/Geolocation.java)
 
-!TODO aplicar geolocalización a algún proyecto
+TODO! aplicar geolocalización a algún proyecto
 
 
 ### IOS

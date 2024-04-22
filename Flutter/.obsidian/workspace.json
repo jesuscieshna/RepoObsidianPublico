@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas.md",
+                "file": "Upgrade android gradle in a flutter project.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "!TO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas.md",
+                "file": "Upgrade android gradle in a flutter project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas.md",
+                "file": "Upgrade android gradle in a flutter project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas.md"
+                "file": "Upgrade android gradle in a flutter project.md"
               }
             }
           }
@@ -231,15 +231,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "911434508f9196b9",
+  "active": "1e0d16f19d3f22b4",
   "lastOpenFiles": [
+    "TFG/orbits/Orbits TODO.md",
+    "Flutter/Native code/Ideas generales.md",
+    "TFG/Ideas de aplicaciones.md",
+    "TFG/orbits",
+    "TFG",
+    "Upgrade android gradle in a flutter project.md",
+    "Recursos externos/General.md",
+    "Flutter/Bases/Widget.md",
+    "Res/Arbol de widgets.pdf",
+    "Res/dart-cheat-sheet.pdf",
+    "Res/flutter-cheat-sheet.pdf",
+    "Personas.md",
     "Tecnologías interesantes.md",
     "TODO/Aplicación expediciones.md",
     "TODO/Udemy.md",
-    "Personas.md",
     "Arreglar configuracion.md",
     "Procesamiento del papel.md",
-    "Upgrade android gradle in a flutter project.md",
     "Flutter/View/video.md",
     "Flutter/View/ItsAllWidgets.md",
     "Flutter/View/Introducción a los widgets de flutter.md",
@@ -256,22 +266,12 @@
     "Dart/Async/Streams.md",
     "Flutter/Builder/Builders.md",
     "Flutter/Rendimiento/Ideas generales sobre rendimiento en flutter a nivel de vistas.md",
-    "Flutter/Native code/Ideas generales.md",
-    "Flutter/Bases/Widget.md",
-    "Flutter/Bases/FutureBuilder.md",
-    "Flutter/Bases/Either.md",
-    "Flutter/Bases/copyWith.md",
     "Res/images/Sync_Async_Data.png",
     "Dart/Async",
     "Flutter/View/Widgets",
     "Flutter/Untitled",
     "Untitled.canvas",
-    "Migracion a null safety",
     "Res/images/NativeCodeEscheme.png",
-    "Flutter/Native code",
-    "Flutter/testing",
-    "Flutter/Builder",
-    "Res/Arbol de widgets.pdf",
     "Res/images/cambio de la api minima soportada por nuestra app en android.png",
     "Res/images/blocSimpleStructure.png",
     "Dart/Res/Pasted image 20240313180840.png"

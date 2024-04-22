@@ -11,11 +11,9 @@
             "id": "94b27839b6bb9b12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Spring/Anotaciones.md",
-                "mode": "source",
-                "source": false
+                "file": "DOOP/Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Anotaciones.md",
+                "file": "DOOP/Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Anotaciones.md",
+                "file": "DOOP/Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Anotaciones.md"
+                "file": "DOOP/Pdf Patrones de diseño/designPatternsElementOfReusableObject-OrientedSoftware.pdf"
               }
             }
           }
@@ -146,6 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47f506a5fbb1ed92",
-  "lastOpenFiles": []
+  "active": "94b27839b6bb9b12",
+  "lastOpenFiles": [
+    "DOOP/Patron/Patron Creacional/Patrones Creacionales/Singleton.md",
+    "DOOP/Patron/Patron Creacional/Patrones Creacionales/Prototype.md",
+    "DOOP/Patron/Patron Creacional/Patrones Creacionales/Factory.md",
+    "DOOP/Patron/Patron Creacional/Patrones Creacionales/Builder.md",
+    "DOOP/Patron/Patron Creacional/Patrones Creacionales/Abstract Fatory.md",
+    "DOOP/Dependencia/Dependencias/Uso.md",
+    "DOOP/Dependencia/Dependencias/Herencia.md",
+    "DOOP/Dependencia/Dependencias/Composición.md",
+    "DOOP/Dependencia/Dependencias/Asociación.md",
+    "DOOP/Dependencia/Dependencias/Agregación.md",
+    "DOOP/Antipatrón/Antipatrón.md",
+    "DOOP/Antipatrón/Antipatrones/Obsesión por tipos primitivos.md",
+    "DOOP/Antipatrón/Antipatrones/Intimidad inapropiada.md",
+    "DOOP/Antipatrón/Antipatrones/Envidia por características.md",
+    "DOOP/Antipatrón/Antipatrones/Cirugía a escopetazos.md",
+    "DOOP/Antipatrón/Antipatrones/Antipatrón descomposición funcional.md",
+    "DOOP/Antipatrón/Antipatrones/Antipatrón código muerto.md",
+    "Spring/Anotaciones.md"
+  ]
 }
