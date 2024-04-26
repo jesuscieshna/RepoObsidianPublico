@@ -1,4 +1,4 @@
-- [ ] Encontrar cambio a dependencias: get_version y splash_screen
+- [ ] Encontrar cambio a dependencias: get_version () y splash_screen
 - [ ] Estudiar warnings de la apliacación
 - [ ] Aplicar null safety
 - [ ] Levantar servicio propio
