@@ -34,7 +34,11 @@
 - El usuario podrá seleccionar el muelle que quiere cargar
 - Si el muelle no existe se le muestra al usuario
 - Si el muelle está vacío se le muestra al usuario
-- Se le mostrará al usuario la matrícula y el código de camión
+- Se le mostrará al usuario la matrícula, el código de camión, una serie de comentarios que se han ido dejando, un desplegable que muestra algo más de información de los palets, una opción de albaranar
+- La tabla (ord (conteo), cliente(nombre cliente), referencia(referencia al tipo de caja), ubic(ubicacion del palet), palets(cuantos palets han sido cargados???), un???, com???, C???, Ñ???, TC???, cant???)
+
+Cargar camión:
+
 ##### Reimprimir Albarán
 - Existe un código de camión único para cada envío
 - A partir del código de camión se muestra información de este envío: Matrícula T, Matrícula R y estado
@@ -43,7 +47,9 @@
 #### Consultar pedidos
 - Se pueden consultar los pedidos por Pedido (ni idea), por pedido cliente (OM-23002711), por referencia, por cliente(nombre cliente) y por ubicación(zona y casilero)
 - A parte del filtro se le da la opción de agrupar por palets o por pedidos
-- La información mostrada al usuario es 
+- La información mostrada al usuario es:
+	- información general del pedido(cliente, referencia(tipo caja), numero palets)
+	- tabla con gtin, nº pedido, palet, codigo pedido cliente, ubicación, fecha alta, estado
 
 
 
