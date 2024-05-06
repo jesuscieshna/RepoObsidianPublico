@@ -1,8 +1,10 @@
-- [x] Encontrar cambio a dependencias: get_version y splash_screen
+
+- [x] Encontrar cambio a dependencias: get_version () y splash_screen
 - [ ] Estudiar warnings de la apliacación
 - [ ] Aplicar null safety
 - [ ] Levantar servicio propio
 - [ ] Ver aplicación .net como punto de referencia
+- [ ] 
 
 
 ### Historias de usuario
@@ -49,7 +51,8 @@ Cargar camión:
 - A parte del filtro se le da la opción de agrupar por palets o por pedidos
 - La información mostrada al usuario es:
 	- información general del pedido(cliente, referencia(tipo caja), numero palets)
-	- tabla con gtin, nº pedido, palet, codigo pedido cliente, ubicación, fecha alta, estado
+	- si se agrupa por palet: tabla con gtin, nº pedido, palet, codigo pedido cliente, ubicación, fecha alta, estado
+	- si se agrupa por pedido: ubicacion, estado(abierta...), numero palets
 
 
 

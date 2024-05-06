@@ -1,0 +1,1 @@
+- [ ] Cambiar dependencias deprecadas
